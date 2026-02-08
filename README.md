@@ -1,15 +1,15 @@
 # Jose Gutierrez - Personal Webpage
 
 ## Project Description
-This is my personal webpage, created as part of my web development course. The goal of this project is to showcase my skills in HTML and CSS, along with my passion for technology and creativity. The webpage provides information about my professional goals, hobbies, and interests, as well as a link to my GitHub profile.
+This is my personal webpage, created for my **Fundamentals of Computing Applications** class. The website shows what I have learned in HTML and CSS and shares a bit about my hobbies, interests, and professional goals. It also links to my GitHub profile.
 
 ### Features:
-- A clean, simple layout using HTML and CSS
-- Responsive design (optimized for different screen sizes)
-- Interactive elements such as external links to social profiles (GitHub)
+- Simple and clean layout using HTML and CSS
+- Works well on different screen sizes
+- Links to my GitHub profile
 
 ## Live Website
-You can view the live site here:  
+You can see the website here:  
 [https://GtzBanda.github.io](https://GtzBanda.github.io)
 
 ## Technologies Used:
@@ -17,9 +17,10 @@ You can view the live site here:
 - CSS
 
 ## Future Improvements:
-- Add more content to the webpage (e.g., portfolio, blog posts)
-- Improve accessibility and SEO features
-- Implement a contact form
+- Add more pages or content
+- Make the website easier to use and more accessible
+- Add a contact form
 
 ## GitHub Profile:
 - [github.com/GtzBanda](https://github.com/GtzBanda)
+
