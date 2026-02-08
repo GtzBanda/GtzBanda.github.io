@@ -40,8 +40,8 @@ div {
     background-color: #F7C548; 
     border: 4px solid #255957;
     padding: 40px;
-    margin: 60px;
+    margin: 60px auto;    
     color: #437C90;
     font-family: Georgia, "Times New Roman", serif;
-    
+    box-sizing: border-box; 
 }   
