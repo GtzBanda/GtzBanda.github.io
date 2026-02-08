@@ -45,3 +45,8 @@ div {
     font-family: Georgia, "Times New Roman", serif;
     box-sizing: border-box; 
 }   
+
+div video {
+    width: 100%;
+    height: auto; 
+}
